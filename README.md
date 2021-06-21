@@ -1,4 +1,4 @@
-# python-appium-test
+# robotframwork-appium-test
 > Robot Framwork 와 Appium Library를 이용하여 Android Application 테스트를 진행해본다.
 
 [Test List]
